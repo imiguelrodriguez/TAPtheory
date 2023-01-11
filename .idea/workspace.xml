@@ -4,51 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7537dacb-c94f-4574-86db-d5971befa149" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TAPtheory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/adapter/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/adapter/AppInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/adapter/FancyUIService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/adapter/FancyUIServiceAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/adapter/JSONData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/adapter/XMLData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/composite/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/composite/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/composite/CompositeBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/composite/DeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/composite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/composite/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/composite/VideoGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/decorator/BaseNotifierDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/decorator/DatabaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/decorator/FacebookDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/decorator/INotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/decorator/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/decorator/WhatsappDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/BeefBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/BeefBurgerRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/BurgerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/MainAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/MainMethodFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/RestaurantMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/VeggieBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/factory/VeggieBurgerRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/proxy/Internet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/proxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/proxy/ProxyInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/proxy/RealInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dessignPatterns/singleton/UserSingleton.java" afterDir="false" />
+    <list default="true" id="7537dacb-c94f-4574-86db-d5971befa149" name="Changes" comment="Added some design patterns.">
+      <change afterPath="$PROJECT_DIR$/src/introduction/lambdas/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction/lambdas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction/lambdas/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction/methodReferences/CreateUserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction/methodReferences/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction/methodReferences/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,17 +37,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "build.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="dessignPatterns.decorator" />
@@ -99,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673430260879</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added some design patterns.">
+      <created>1673454002389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673454002389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added some design patterns." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some design patterns." />
   </component>
 </project>
