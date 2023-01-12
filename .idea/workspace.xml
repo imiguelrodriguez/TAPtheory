@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7537dacb-c94f-4574-86db-d5971befa149" name="Changes" comment="Streams included.">
-      <change afterPath="$PROJECT_DIR$/src/introduction/comparators/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduction/comparators/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/introduction/comparators/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/introduction/streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/introduction/streams/Main.java" afterDir="false" />
+    <list default="true" id="7537dacb-c94f-4574-86db-d5971befa149" name="Changes" comment="Added comparators.">
+      <change afterPath="$PROJECT_DIR$/src/introduction/runnables/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673474956024</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added comparators.">
+      <created>1673518678572</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673518678572</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +112,8 @@
     <MESSAGE value="Added some introduction concepts (lambdas, method references)." />
     <MESSAGE value="Anonymous classes included." />
     <MESSAGE value="Streams included." />
-    <option name="LAST_COMMIT_MESSAGE" value="Streams included." />
+    <MESSAGE value="Added comparators." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added comparators." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
