@@ -1,7 +1,8 @@
 package introduction.streams;
 
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+import java.util.function.Function;
+import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -27,7 +28,18 @@ public class Main {
         // We can count occurrences too
         System.out.println(stringList.stream().filter(s -> s.startsWith("M")).count());
 
+        // A predicate establishes a boolean function
+        Predicate<Integer> pred = a -> a>1;
+        System.out.println(pred.test(5));
 
+        // Functions can accept two types of parameters
+        Function<Integer, Boolean> func = v -> v>3;
+        Function<Integer, String> func2 = Object::toString;
+
+        // Collections.sort();
+        stringList.sort((o1, o2) -> o1.compareTo(o2));
+        stringList.sort(Comparator.naturalOrder());
+        Map<Integer, Integer> map = new HashMap<>();
     }
 
 
